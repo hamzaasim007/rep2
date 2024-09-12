@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is DCFB-51D2
-
- Directory of C:\Users\Hamza\OneDrive\Desktop\project1
-
-09/12/2024  02:08 PM    <DIR>          .
-09/12/2024  02:08 PM    <DIR>          ..
-09/12/2024  02:08 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  56,754,372,608 bytes free
+ changed1
